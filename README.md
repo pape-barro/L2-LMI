@@ -19,4 +19,4 @@
  * Quelques notions en C.
  
  # ``` Contenu: ```
- 1. [`Généralites, les bases, ...`](https://github.com/pape-barro/L2-LMI/blob/main/cours-p-5.pdf) - ``` 09 - 10 - 16 - 17 - 23 - 24 - 30 - 31 Janvier, 07 février 2023 ``` ;
+ 1. [`Généralites, les bases, ...`](https://github.com/pape-barro/L2-LMI/blob/main/P-6.pdf) - ``` 09 - 10 - 16 - 17 - 23 - 24 - 30 - 31 Janvier, 07 - 13 février 2023 ``` ;
