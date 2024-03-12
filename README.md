@@ -1,4 +1,4 @@
-# UIDT-UFRSET-LMI2-2021-2022
+# UIDT-UFRSET-LMI2-2022-2023
  * ##  Université de Thiès 
  * ##  UFR Sciences et Technologies 
  * ##  POO1: C++
@@ -14,9 +14,10 @@
 ``` - Outils de travail: ```
  * Visual C++ ;
  * Dev-C ++ ;
- 
+ * Coding C [Smartphones] ;
+   
 ``` - Prérequis: ```
  * Quelques notions en C.
  
  # ``` Contenu: ```
- 1. [`Généralites, les bases, la POO, ...`](https://github.com/pape-barro/L2-LMI/blob/main/cours-p-8-v3.pdf) - ``` 09 Janvier - 25 Mars 2023 ``` ;
+ 1. [`Généralites, Rappel sur les bases, ..., Tableaux et pointeurs `](https://github.com/pape-barro/L2-LMI/blob/main/cours-23-p1.pdf) - ``` 12 Mars 2024 ``` ;
