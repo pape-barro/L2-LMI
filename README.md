@@ -21,3 +21,4 @@
  
  # ``` Contenu: ```
  1. [`Généralites, Rappel sur les bases, ..., Tableaux et pointeurs `](https://github.com/pape-barro/L2-LMI/blob/main/cours-23-p1.pdf) - ``` 12 Mars 2024 ``` ;
+ 2. [`Fonction, Récursivité, Algorithmes de Tri et de recherche`](https://github.com/pape-barro/L2-LMI/blob/main/cours-23-p2.pdf) - ``` 15 Mars 2024 ``` ;
