@@ -14,7 +14,7 @@
 ``` - Outils de travail: ```
  * Visual C++ ;
  * Dev-C ++ ;
- * Coding C [Smartphones] ;
+ * Coding C++ [Smartphones] ;
    
 ``` - Prérequis: ```
  * Quelques notions en C.
