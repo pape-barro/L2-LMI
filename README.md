@@ -25,13 +25,13 @@
  3. [`Fichiers, Structures, Listes chainées - Piles - Files`](https://github.com/pape-barro/L2-LMI/blob/main/cours-23-p3.pdf) - ``` 19 Mars 2024 ``` ;
  4. [`Notion de Classe, Fonctions membres, Constructeurs, destructeurs et initialisation d’objet`](https://github.com/pape-barro/L2-LMI/blob/main/cours-23-p4.pdf) - ``` 26 Mars 2024 ``` ;
  5. [`Héritage simple, Héritage multiple, Fonctions virtuelles et polymorphisme, La gestion des exceptions`](https://github.com/pape-barro/L2-LMI/blob/main/cours-23-p5.pdf) - ``` 16 - 23 Avril 2024 ``` ;
- 7. [`Généralités sur la STL`] - ``` Bientot ``` ;
+ 7. [`Généralités sur la STL`] - ``` Plus tard ! ``` ;
 
  # ``` Contenu Python: ```
  1. [`Généralités - Données et manipulations - Structures conditionnelles et itératives - Autres types (conteneurs standard)`](https://github.com/pape-barro/L2-LMI/blob/main/cours-py-23-p6.pdf) - ``` 30 Avril et 21 Mai 2024 ``` ;
-2. Les fonctions - Classes  et héritages
-3. Les modules
-4. Les entrées/sorties
-4. La gestion des exceptions
+2. [`Les fonctions - Classes  et héritages`](https://github.com/pape-barro/L2-LMI/blob/main/cours-py-23-p7.pdf) - ``` 28 Mai et 04 Juin 2024 ``` ;
+3. Les modules - ``` En préparation ``` ;
+4. Les entrées/sorties - ``` Plus tard ! ``` ;
+4. La gestion des exceptions - ``` Plus tard ! ``` ;
 
  
